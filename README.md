@@ -1,2 +1,2 @@
 # test_github
-this is to taste the github and local repository 
+this is to test the github and local repository 
